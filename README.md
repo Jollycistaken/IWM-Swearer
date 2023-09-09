@@ -1,5 +1,5 @@
 # IWM Swear Discord Bot
-I got kinda of bored and made this. The discord bot has 1 command and that is "swear" (and technically help but shh) and that command will select a random swear word based on the I Wanna Maker bad word list.
+I got kinda of bored and made this. This discord bot has 1 command and that is "swear" (and technically help but shh) and that command will select a random swear word based on the I Wanna Maker bad word list.
 
 ## Building
 1. Create a .env file at the root directory of this project
