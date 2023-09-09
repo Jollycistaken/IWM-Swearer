@@ -1,6 +1,6 @@
 [package]
 name = "iwm-swearer"
-version = "1.0"
+version = "1.0.0"
 edition = "2021"
 authors = ["Jollyc"]
 description = "Swear bot based on the I Wanna Maker bad word list"
